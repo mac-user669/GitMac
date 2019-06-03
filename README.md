@@ -1,5 +1,5 @@
-# MacBird
-Mobile Twitter in a WebKit View with some modifications to make it epic.
+# GitMac
+GitHub in an app. This was almost all made by EvenDev, so go [check him out](https://github.com/evendeveloper)
 
-# Compiled Version Please?
-https://evendev.org/macbird
+# Downloads
+Download [here](https://github.com/mac-user669/GitMac/releases)
